@@ -8,3 +8,17 @@ body{
 h1{
     text-align: center;
 }
+.container{
+    margin-left: 450px;
+    margin-top: 3rem;
+    width: 600px;
+    height: 450px;
+    background-color: honeydew;
+    border-radius: 5px;
+
+}
+
+.input1{
+    background-color: indigo;
+    margin-top: 30px;
+}
