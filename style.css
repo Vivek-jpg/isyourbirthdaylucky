@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0; }
+
+body{
+
+    background: green;
+    background-repeat: repeat;
+}
+h1{
+    text-align: center;
+}
